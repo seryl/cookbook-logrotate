@@ -1,7 +1,7 @@
 #
 # Author:: Josh Toft <josh.toft@gmail.com>
 # Cookbook Name:: logrotate
-# Provider:: app
+# Provider:: default
 #
 # Copyright 2011, Josh Toft
 #
